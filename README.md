@@ -17,6 +17,10 @@ git clone https://github.com/mkrizmancic/franka_gazebo.git
 catkin make
 ```
 
+## How to run Franka gazebo launch file
+1. ```roslaunch gazebo_ros empty_world.launch```
+2. Open new terminal and type ```roslaunch franka_gazebo panda_arm_hand.launch```
+
 ## Install Baxter packages
 ```
 cd ~/catkin_ws
