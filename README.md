@@ -10,4 +10,4 @@ The initial password of the Jetson TX2 is **nvidia**.
 http://wiki.ros.org/kinetic/Installation/Ubuntu
 http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
 2. Install ROS packages.
-'''sudo apt-get install ros-kinetic-ros-control* ros-kinetic-gazebo-ros*'''
+```sudo apt-get install ros-kinetic-ros-control* ros-kinetic-gazebo-ros*```
