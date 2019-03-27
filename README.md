@@ -17,4 +17,11 @@ git clone https://github.com/mkrizmancic/franka_gazebo.git
 catkin make
 ```
 
+## Install Baxter packages
+```
+cd ~/catkin_ws
+git clone https://github.com/RethinkRobotics/baxter_simulator.git
+catkin_make
+```
+
 
